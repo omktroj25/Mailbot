@@ -1,1 +1,1 @@
-# gmailbot
+# mailbot
